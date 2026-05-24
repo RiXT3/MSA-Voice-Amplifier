@@ -1,4 +1,7 @@
-# WARNING THIS PROJECT IS STILL IN PROGRESS 
-![P1540227](https://github.com/user-attachments/assets/b083e17b-0831-4b2a-9d44-d2a6574e48cb)
-# Back foam
-![P1540222](https://github.com/user-attachments/assets/508617b2-28c9-4201-ae09-80e786720aab)
+# This project is no longer continued 
+
+<img width="640" height="505" alt="obraz" src="https://github.com/user-attachments/assets/f462924f-23f5-4abb-b6be-6dc35948abfb" />
+
+<img width="697" height="515" alt="obraz" src="https://github.com/user-attachments/assets/c999f0ff-ee15-4c27-8196-51ea190128fe" />
+
+
