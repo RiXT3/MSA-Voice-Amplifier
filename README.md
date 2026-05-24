@@ -1,4 +1,4 @@
-# This project is no longer continued 
+## This project is no longer being continued
 
 <img width="4592" height="2682" alt="P1100500" src="https://github.com/user-attachments/assets/464a3cdf-108c-4952-be81-458678d4fc9a" />
 
