@@ -12,5 +12,4 @@
 - Foam scan photos
 - PCB photo 
 
-
-<img width="4592" height="3448" alt="P1100498" src="https://github.com/user-attachments/assets/f3951ab9-5451-4dad-a6b5-9cb36b483c97" />
+<img width="826" height="682" alt="obraz" src="https://github.com/user-attachments/assets/b274967a-2cd5-4460-bd07-1ecdec6eadc6" />
