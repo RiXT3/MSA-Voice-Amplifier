@@ -1,5 +1,6 @@
 # This project is no longer continued 
 
+<img width="4592" height="2682" alt="P1100500" src="https://github.com/user-attachments/assets/464a3cdf-108c-4952-be81-458678d4fc9a" />
 
 # This project includes:
 - Mesh 3D scans of the parts used in amplifier
